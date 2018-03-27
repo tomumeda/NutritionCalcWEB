@@ -15,7 +15,7 @@ foreach my $files (@files)
   next if(! $file);
   my $dbName=$file;
   $dbName=~s/.txt//;
-  my $dbFile="../DB/$dbName.db";
+  my $dbFile="./DB/$dbName.db";
   unlink $dbFile;
   print "\nHELLO: $dbName ===\n";
   my %db=%{$dbName};

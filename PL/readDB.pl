@@ -19,7 +19,7 @@ foreach my $files (@files)
   $dbName=$file;
   $dbName=~s/\.txt//;
   push(@dbName,$dbName);
-  $dbFile="../DB/$dbName.db";
+  $dbFile="./DB/$dbName.db";
   print "$dbName $dbFile\n";
   print "\nHELLO: $dbName ===\n";
   my %db;
