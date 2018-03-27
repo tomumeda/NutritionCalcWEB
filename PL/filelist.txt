@@ -1,0 +1,2 @@
+
+DATA_SRC.txt=1       FD_GROUP.txt=1  LANGDESC.txt=1  NUT_DATA.txt=2 DATSRCLN.txt=2  FOOD_DES.txt=1  LANGUAL.txt=1   SRC_CD.txt=1 DERIV_CD.txt=1  FOOTNOTE.txt=1  NUTR_DEF.txt=1  WEIGHT.txt=1
